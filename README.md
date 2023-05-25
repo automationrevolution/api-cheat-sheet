@@ -1,6 +1,5 @@
 # API Cheat Sheet
 
-<p>Certainly! Here is a comprehensive cheat sheet with 500 API commands, categorized and explained, organized in a markdown table:</p>
 <table>
 <thead>
 <tr>
