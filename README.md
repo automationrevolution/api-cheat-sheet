@@ -126,18 +126,6 @@
 </tr>
 <tr>
 <td><strong>Caching</strong></td>
-<td>`</td>
-<td></td>
-</tr>
-<tr>
-<th>Category</th>
-<th>Command</th>
-<th>Explanation</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Caching</strong></td>
 <td><code>cache</code></td>
 <td>Specifies caching options for the API response to improve performance.</td>
 </tr>
